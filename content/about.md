@@ -4,8 +4,8 @@ const eleventyNavigation = {
 	order: 3
 };
 ---
-<img class="tianaPic" src="./assets/tiana-2025.jpg" alt="hi">
+<img class="tianaPic" src="/assets/catcomputer2.jpg" alt="hi">
 
 # About
 
-This website is the guide for [Tiana's](https://tiana.computer) [Blogging for the Soul](https://luma.com/hmwskaey) course at New Stadium.
+This website is the guide for [Tiana's](https://tiana.computer) Blogging for the Soul course at New Stadium.

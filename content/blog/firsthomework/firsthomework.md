@@ -1,5 +1,5 @@
 ---
-title: Day 1c | Homework
+title: Homework
 description: What to work on.
 date: 2026-09-17
 day: Day 1

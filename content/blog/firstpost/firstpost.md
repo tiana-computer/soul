@@ -1,5 +1,5 @@
 ---
-title: Day 1a | Setting Up Your Blog
+title: Setting Up Your Blog
 description: How to make a blog with 11ty & Netlify
 date: 2026-09-15
 day: Day 1
@@ -33,9 +33,10 @@ Prerequisits:
 
 ### 1 | Make Your Repository
 
-- Create an empty repository on your [GitHub](https://github.com/) account (through browser or [GitHub Desktop](https://desktop.github.com/download/)).
-- On GitHub Desktop, clone the repository locally.
-- Download code from Tiana's repository and place files in your local repo folder.
+- Fork Tiana or [Zachleat's](https://github.com/11ty/eleventy-base-blog) 11ty base blog repository.
+- [Detach your fork from fork network](https://youtu.be/ItSfG4y2u5Y?si=hcjUU3sTwajrTR-a) in your repo's *Settings* under *Danger Zone*. Choose *"Leave fork network"* and follow confirmation steps.
+- Also in *Danger Zone*, make your repository private if you prefer (nice for keeping post drafts private).
+- Clone & open your forked repo through Github Desktop in Visual Studio Code.
 - Edit locally with Visual Studio Code. Updates should appear in GitHub Desktop. 
 
 <details><summary>Or with code</summary>
@@ -92,16 +93,18 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 ### 4| Commit Changes
 
 - Commit once some main changes are made.
-	* Delete my posts (maybe keep one but delete content & edit it to just say "Coming soon")
+	* Delete my posts (maybe keep one but delete content & edit it to just say "Coming soon").
+	* Update your About page.
 	* Edit <code>_data/metadata.js</code> with your blog’s information.
 
 Your repo on GitHub will now be populated!
 
 ### 5 | Deploying to [Netlify](https://www.netlify.com/)
 
-- Login and select "Add new project"
+- Login and select *"Add new project"*.
 - Choose import from GitHub, give required permissions.
 - Select your blog repository.
+- Commit your updates with GitHub Desktop to update your public website.
 
 Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
 
