@@ -25,3 +25,5 @@ Some ideas if you're stuck...
 - Other fun things
     * [Frutiger Aero Archive](https://frutigeraeroarchive.org/)
     * [Chatango](https://www.chatango.com/)
+
+We'll do a show & tell at the end of class.
