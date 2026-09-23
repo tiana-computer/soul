@@ -13,7 +13,7 @@ draft : false
 
 What makes your blog your own?
 
-Share your 5 ideas on your blog wish list? Let's see how we can add them to your website.
+What's on your blog wish list? Experiment with adding features and content to your website.
 
 Some ideas if you're stuck...
 - [Image hover effects](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
