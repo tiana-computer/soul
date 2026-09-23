@@ -91,7 +91,7 @@ Or build and host on a local development server:
 ```
 npx @11ty/eleventy --serve
 ```
-The above should throw a <code>http://localhost:8080/</code> link.
+The above should throw a <code>http://localhost:8080/</code> link (run <code>npx @11ty/eleventy --serve</code> whenever you want to view your site locally).
 
 Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the internals.
 
