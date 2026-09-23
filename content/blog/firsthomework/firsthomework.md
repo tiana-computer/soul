@@ -1,5 +1,6 @@
 ---
 title: 3 | Homework
+permalink: "/blog/homework/"
 description: What to work on.
 date: 2026-09-17
 day: Day 1
