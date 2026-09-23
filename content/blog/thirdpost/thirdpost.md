@@ -1,9 +1,10 @@
 ---
 title: 4 | Personalize Your Blog
+permalink: "/blog/personalize/"
 description: Add your own flare.
 date: 2026-09-22
 day: Day 2
-tags: ["day 2", "setting up"]
+tags: ["day 2", "personalize"]
 heroImage: "./assets/Cat_using_computer.jpg"
 draft : false
 ---
