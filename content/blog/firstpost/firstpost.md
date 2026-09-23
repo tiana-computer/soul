@@ -116,7 +116,13 @@ Note: Do not edit files in <code>_site</code> folder.
 - Login and select *"Add new project"*.
 - Choose import from GitHub, give required permissions.
 - Select your blog repository.
-- Commit your updates with GitHub Desktop to update your website. Set website to public or private.
+- Add *Project Name* (creates your URL).
+	* In <code>eleventy.config.js</code>, find <code>metadata:</code> in the <code>feedPlugin</code> section. Update <code>base:</code> value with your base site URL (<code>https://example.netlify.app/</code>), so your RSS feed works.
+- Leave build settings as is. 
+- Click *deploy* button at the bottom of the page!
+- Set website to public or private.
+- Update your site with GitHub Desktop, commit and push your updates as they come.
+	* Always review your updates and check for errors before committing/pushing.
 
 Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
 
