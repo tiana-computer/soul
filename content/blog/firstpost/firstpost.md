@@ -36,7 +36,7 @@ Prerequisits:
 - Fork Tiana or [Zachleat's](https://github.com/11ty/eleventy-base-blog) 11ty base blog repository.
 - [Detach your fork from fork network](https://youtu.be/ItSfG4y2u5Y?si=hcjUU3sTwajrTR-a) in your repo's *Settings* under *Danger Zone*. Choose *"Leave fork network"* and follow confirmation steps.
 - Also in *Danger Zone*, make your repository private (keeps post drafts private) by clicking *"Change visibility"* and following the steps.
-- Clone & open your forked repo through GitHub Desktop in Visual Studio Code.
+- On GitHub Desktop, clone & open your forked repo in Visual Studio Code.
 	* It can be ideal to store your GitHub sites in a path like <code>/Documents/GitHub/ProjectName</code>
 
 <details><summary>Or with code</summary>
