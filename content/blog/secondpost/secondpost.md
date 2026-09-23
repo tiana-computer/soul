@@ -1,5 +1,6 @@
 ---
 title: 2 | History of Blogging
+permalink: "/blog/history-of-blogging/"
 description: How it all began and how it's changed.
 date: 2026-09-16
 day: Day 1
