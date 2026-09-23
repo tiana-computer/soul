@@ -1,12 +1,14 @@
-# eleventy-base-blog v9
+# Blogging for the Soul
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
 
 This version is for Tiana Dueck's Blogging for the Soul course!
 
-[Here is Tiana's set up guide.](https://bloggingforthesoul.netlify.app/blog/setting-up/)
+**[Here is Tiana's getting started guide.](https://bloggingforthesoul.netlify.app/blog/setting-up/)**
 
-## Getting Started (Original guide)
+*Original getting started guide...*
+
+## Getting Started 
 
 * [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
 
