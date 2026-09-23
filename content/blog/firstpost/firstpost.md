@@ -101,10 +101,11 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 	* There should be a button in GitHub Desktop that opens the project in VS Code.
 - Updates appear in GitHub Desktop. Check that all the highlighted changes look correct. 
 - Check that your local development server (<code>http://localhost:8080/</code>) is working across all (edited) pages. Check your VS Code terminal for errors. We don't want to commit errors.
-- Commit from GitHub Desktop once some main changes are made. ("Commit X files to main" button)
+- Make some changes:
 	* Delete all but one sample post in <code>content/blog</code>. Keep one, delete its content under the second <code>---</code>, just add *"Coming soon."* for now.
 	* Update your About (<code>content/about.md</code>) page.
 	* Edit <code>_data/metadata.js</code> with your blog’s information.
+- Commit from GitHub Desktop (write a short summary, then click "Commit X files to main" button), then click the push button.
 
 Your repo on GitHub will now be populated!
 

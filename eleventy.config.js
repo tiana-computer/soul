@@ -26,7 +26,8 @@ export default async function(eleventyConfig) {
 		.addPassthroughCopy({ "./public/": "/", })
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl")
 		.addPassthroughCopy({ './robots.txt': '/robots.txt', })
-		.addPassthroughCopy("./fonts/Feroniapi-MediumItalic.woff2");
+		.addPassthroughCopy("./fonts/Feroniapi-MediumItalic.woff2")
+		.addPassthroughCopy("./media/favicon.ico");
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets

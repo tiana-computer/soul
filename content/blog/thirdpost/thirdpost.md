@@ -28,8 +28,15 @@ Some ideas if you're stuck...
 - Other fun things
     * [Frutiger Aero Archive](https://frutigeraeroarchive.org/)
     * [Chatango](https://www.chatango.com/)
+- Want more than 1 collection of posts? [See 11ty docs.](https://www.11ty.dev/docs/collections/)
 
-We'll do a show & tell at the end of class.
+We'll do a show & tell at the end of class. Share your site with your friends. 
+
+Email Tiana with your site url & add this icon to your site to join our class webring!
+
+
+[![Alt Text](/assets/webring-blogging4soul.png)](https://bloggingforthesoul.netlify.app/)
+
 
 ---
 
@@ -47,3 +54,12 @@ We'll do a show & tell at the end of class.
 - [Background Image](https://www.w3schools.com/cssref/pr_background-image.php) / <code>&lt;main&gt;</code> [Background Colour](https://www.w3schools.com/cssref/pr_background-color.php)
     * For an all over background image, add one to the body (for one on each page, do this on the page with a <code>&lt;style&gt;</code> element).
     * For the content container (<code>&lt;main&gt;</code> element in your html & css), give it a background colour.
+
+---
+
+Our Webring...
+- [scaraby](https://scaraby.netlify.app/)
+- more soon.
+
+[![Alt Text](/assets/webring-blogging4soul.png)](https://bloggingforthesoul.netlify.app/)
+

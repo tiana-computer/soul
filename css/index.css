@@ -153,6 +153,11 @@ main,
 footer {
   padding: 0px;
 }
+
+main {
+  display: flow-root;
+}
+
 /*
 main :first-child {
 	margin-top: 0;
@@ -198,7 +203,7 @@ header {
   text-align: right;
 }
 
-.tianaPic, .blogPic {
+.aboutPic, .blogPic {
   border-radius: 100%;
   max-width: 15em;
   margin-left: 10px;
