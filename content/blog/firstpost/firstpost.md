@@ -105,7 +105,7 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 	* Delete all but one sample post in <code>content/blog</code>. Keep one, delete its content under the second <code>---</code>, just add *"Coming soon."* for now.
 	* Update your About (<code>content/about.md</code>) page.
 	* Edit <code>_data/metadata.js</code> with your blog’s information.
-- Commit from GitHub Desktop (write a short summary, then click "Commit X files to main" button), then click the push button.
+- Commit from GitHub Desktop (write a short summary, then click *"Commit X files to main"* button), then click the *"Push origin"* button.
 
 Your repo on GitHub will now be populated!
 

@@ -64,6 +64,11 @@ h1 {
   color: olivedrab;
 }
 
+h1, h2, h3, h4 {
+  margin: 0px;
+  margin-bottom: 5px;
+}
+
 /* Global stylesheet */
 * {
   box-sizing: border-box;
@@ -88,6 +93,7 @@ body {
   max-width: 50em;
   padding: 20px;
   padding-top: 0px;
+  line-height: 1.6;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */

@@ -57,7 +57,7 @@ Email Tiana with your site url & add this icon to your site to join our class we
 
 ---
 
-Our Webring...
+## Our Class Webring
 - [scaraby](https://scaraby.netlify.app/)
 - more soon.
 
