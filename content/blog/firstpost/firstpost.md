@@ -122,6 +122,7 @@ Note: Do not edit files in <code>_site</code> folder.
 - Leave build settings as is. 
 - Click *deploy* button at the bottom of the page!
 - Set website to public or private.
+- [Remove *"Powered by Netlify"* badge.](https://docs.netlify.com/manage/projects/powered-by-netlify-badge/)
 - Add a [custom domain](https://docs.netlify.com/manage/domains/get-started-with-domains/).
 - Update your site with GitHub Desktop, commit and push your updates as they come.
 	* Always review your updates and check for errors before committing/pushing.
