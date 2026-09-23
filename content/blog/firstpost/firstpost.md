@@ -1,5 +1,6 @@
 ---
 title: 1 | Setting Up Your Blog
+permalink: "/blog/setting-up/"
 description: How to make a blog with 11ty & Netlify.
 date: 2026-09-15
 day: Day 1
