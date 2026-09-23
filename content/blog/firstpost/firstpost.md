@@ -27,7 +27,7 @@ We're using a starter repository showing how to build a blog with the [Eleventy]
 [11ty's Guide](https://www.11ty.dev/docs/getting-started/) | [More resources](http://localhost:8080/blog/firstpost/#helpful-documents-for-coding)
 
 Prerequisits: 
-- [GitHub Account](https://github.com/) & [GitHub Destop](https://desktop.github.com/download/)
+- [GitHub Account](https://github.com/) & [GitHub Desktop](https://desktop.github.com/download/)
 - [Netlify Account](https://www.netlify.com/)
 - [Visual Studio Code](https://code.visualstudio.com/) on your computer.
 
@@ -36,18 +36,22 @@ Prerequisits:
 - Fork Tiana or [Zachleat's](https://github.com/11ty/eleventy-base-blog) 11ty base blog repository.
 - [Detach your fork from fork network](https://youtu.be/ItSfG4y2u5Y?si=hcjUU3sTwajrTR-a) in your repo's *Settings* under *Danger Zone*. Choose *"Leave fork network"* and follow confirmation steps.
 - Also in *Danger Zone*, make your repository private if you prefer (nice for keeping post drafts private).
-- Clone & open your forked repo through Github Desktop in Visual Studio Code.
-- Edit locally with Visual Studio Code. Updates should appear in GitHub Desktop. 
+- Clone & open your forked repo through GitHub Desktop in Visual Studio Code.
+	* It can be ideal to store your GitHub sites in a path like <code>/Documents/GitHub/ProjectName</code>
 
 <details><summary>Or with code</summary>
+<pre>
 ```
 mkdir my-blog-name
 cd my-blog-name
 ```
+</pre>
 Then clone the repository:
+<pre>
 ```
-git clone [insert base blog link]
+git clone [insert base blog repo link]
 ```
+</pre>
 </details>
 
 ### 2 | Install Node.js
@@ -87,24 +91,31 @@ Or build and host on a local development server:
 ```
 npx @11ty/eleventy --serve
 ```
+The above should throw a <code>http://localhost:8080/</code> link.
 
 Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the internals.
 
-### 4| Commit Changes
+### 4 | Commit Changes
 
-- Commit once some main changes are made.
-	* Delete my posts (maybe keep one but delete content & edit it to just say "Coming soon").
-	* Update your About page.
+- Edit locally with Visual Studio Code.
+	* There should be a button in GitHub Desktop that opens the project in VS Code.
+- Updates appear in GitHub Desktop. Check that all the highlighted changes look correct. 
+- Check that your local development server (<code>http://localhost:8080/</code>) is working across all (edited) pages. Check your VS Code terminal for errors. We don't want to commit errors.
+- Commit from GitHub Desktop once some main changes are made. ("Commit X files to main" button)
+	* Delete all but one sample post in <code>content/blog</code>. Keep one, delete its content under the second <code>---</code>, just add *"Coming soon."* for now.
+	* Update your About (<code>content/about.md</code>) page.
 	* Edit <code>_data/metadata.js</code> with your blog’s information.
 
 Your repo on GitHub will now be populated!
+
+Note: Do not edit files in <code>_site</code> folder.
 
 ### 5 | Deploying to [Netlify](https://www.netlify.com/)
 
 - Login and select *"Add new project"*.
 - Choose import from GitHub, give required permissions.
 - Select your blog repository.
-- Commit your updates with GitHub Desktop to update your public website.
+- Commit your updates with GitHub Desktop to update your website. Set website to public or private.
 
 Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
 
