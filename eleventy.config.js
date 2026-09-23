@@ -80,7 +80,7 @@ export default async function(eleventyConfig) {
 			language: "en",
 			title: "Blogging for the Soul",
 			subtitle: "A course at New Stadium on blogging.",
-			base: "https://example.com/",
+			base: "https://bloggingforthesoul.netlify.app/",
 			author: {
 				name: "Tiana"
 			}
