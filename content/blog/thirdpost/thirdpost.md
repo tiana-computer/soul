@@ -18,6 +18,7 @@ Share your 5 ideas on your blog wish list? Let's see how we can add them to your
 Some ideas if you're stuck...
 - [Image hover effects](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
 - [Image gallery](https://www.w3schools.com/css/css_image_gallery.asp)
+- [Object-fit](https://www.w3schools.com/css/css3_object-fit.asp) an image to a div.
 - Animations (with CSS or GIFs)
     * [GifCities](https://gifcities.org/)
     * [Glitter Graphics](https://www.glitter-graphics.com/)
@@ -63,5 +64,5 @@ Email Tiana with your site url & add this icon to your site to join our class we
 - [scaraby](https://scaraby.netlify.app/)
 - more soon.
 
-[![Alt Text](/assets/webring-blogging4soul.png)](https://bloggingforthesoul.netlify.app/)
+[![blogging for the soul webring](/assets/webring-blogging4soul.png)](https://bloggingforthesoul.netlify.app/)
 
