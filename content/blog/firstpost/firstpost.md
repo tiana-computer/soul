@@ -128,7 +128,7 @@ Note: Do not edit files in <code>_site</code> folder.
 	* **Number your posts:**
         + ✅ <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order)
         + ❌ NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
-        + Add custom permalinks at the top of your /blog/post files under <code>title:</code> line. 
+        + Add custom permalinks at the top of your <code>/blog/post</code> files under <code>title:</code> line. 
 		<br>Like <code>permalink: "/blog/post-name/"</code>
 
 Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.

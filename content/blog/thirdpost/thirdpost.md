@@ -40,9 +40,9 @@ Recall key user tips from the <a href="https://bloggingforthesoul.netlify.app/bl
 - Edit pages in <code>/content</code> folder.
 - Add all images/videos for posts and pages in the <code>/content/assets</code> folder.
 - Edit posts in <code>/content/blog</code> folder. **Number your posts:**
-    * ✅ <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order, can be hard to change later)
+    * ✅ <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order)
     * ❌ NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
-    * Add custom permalinks at the top of your /blog/post files under <code>title:</code> line. 
+    * Add custom permalinks at the top of your <code>/blog/post</code> files under <code>title:</code> line. 
 		<br>Like <code>permalink: "/blog/post-name/"</code>
 
 We'll do a show & tell at the end of class. Share your site with your friends. 
