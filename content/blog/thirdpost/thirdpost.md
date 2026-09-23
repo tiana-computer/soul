@@ -34,6 +34,17 @@ Some ideas if you're stuck...
     * You need to tell 11ty to "pass through" global files like these.
     * [Try Are.na](https://www.are.na/search?q=%7B%22term%22:%7B%22facet%22:%22free%20fonts%22%7D%7D) for finding free fonts. I love [Velvetyne Type Foundry](https://velvetyne.fr/).
 
+Recall key user tips from the <a href="https://bloggingforthesoul.netlify.app/blog/homework/">Homework page</a>.
+- Keep your index.css organzied. Using <code>/* comments */</code> can help. Since 11ty needs a bunch of instructions for passing files to the main build, I'd suggest leaving as much as you can just in <code>/css/index.css</code>, or even in your template is fine for now. You can use css <span style="color:blue;">inline</span> or in a <span class="exampleClass">style</span> <span id="exampleID">block</span> on your templates.
+- Edit layouts in the <code>/_includes</code> folder.
+- Edit pages in <code>/content</code> folder.
+- Add all images/videos for posts and pages in the <code>/content/assets</code> folder.
+- Edit posts in <code>/content/blog</code> folder. **Number your posts:**
+    * <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order, can be hard to change later)
+    * NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
+    * Add custom permalinks at the top of your /blog/post files under <code>title:</code> line. 
+		<br>Like <code>permalink: "/blog/post-name/"</code>
+
 We'll do a show & tell at the end of class. Share your site with your friends. 
 
 Email Tiana with your site url & add this icon to your site to join our class webring!

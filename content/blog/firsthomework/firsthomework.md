@@ -50,12 +50,11 @@ Knowing how to break down your ideas/challenges/bugs into essential steps is key
     * 11ty can do a lot. Keep to HTML/CSS for now (if you want to use JavaScript on a post/page, make your file .html instead of .md — [Try this?](https://www.w3schools.com/howto/howto_js_slideshow.asp)). If you're up for the challenge, give things like *Shortcodes* a go. I can't promise to be able to help you with deep 11ty dives. But we can try!
     * It can be overwhelming to learn how to code. Just start with what you need to know for the project at hand. We're having fun here.
 3. **Work through your wish list!** Use the resources provided to edit your website as you wish.
-    * Keep your index.css organzied. Using /* comments */ can help. Since 11ty needs a bunch of instructions for passing files to the main build, I'd suggest leaving as much as you can just in /css/index.css, or even in your template is fine for now. You can use css <span style="color:blue;">inline</span> or in a <span class="exampleClass">style</span> <span id="exampleID">block</span> on your templates.
-    * Edit layouts in the /_includes folder.
-    * Edit pages in /content folder.
-    * Edit posts in /blog folder.
-    * Add all images/videos for posts and pages in the /content/assets folder.
-    * **Number your posts:**
+    * Keep your index.css organzied. Using <code>/* comments */</code> can help. Since 11ty needs a bunch of instructions for passing files to the main build, I'd suggest leaving as much as you can just in <code>/css/index.css</code>, or even in your template is fine for now. You can use css <span style="color:blue;">inline</span> or in a <span class="exampleClass">style</span> <span id="exampleID">block</span> on your templates.
+    * Edit layouts in the <code>/_includes</code> folder.
+    * Edit pages in <code>/content</code> folder.
+    * Add all images/videos for posts and pages in the <code>/content/assets</code> folder.
+    * Edit posts in <code>/content/blog</code> folder. **Number your posts:**
         + <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order, can be hard to change later)
         + NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
         + Add custom permalinks at the top of your /blog/post files under <code>title:</code> line. 
