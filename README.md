@@ -4,7 +4,9 @@ A starter repository showing how to build a blog with the [Eleventy](https://www
 
 This version is for Tiana Dueck's Blogging for the Soul course!
 
-## Getting Started
+[Here is Tiana's set up guide.](https://bloggingforthesoul.netlify.app/blog/setting-up/)
+
+## Getting Started (Original guide)
 
 * [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
 
