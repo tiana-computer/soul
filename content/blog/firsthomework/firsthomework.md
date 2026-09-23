@@ -55,8 +55,8 @@ Knowing how to break down your ideas/challenges/bugs into essential steps is key
     * Edit pages in <code>/content</code> folder.
     * Add all images/videos for posts and pages in the <code>/content/assets</code> folder.
     * Edit posts in <code>/content/blog</code> folder. **Number your posts:**
-        + <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order, can be hard to change later)
-        + NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
+        + ✅ <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order)
+        + ❌ NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
         + Add custom permalinks at the top of your /blog/post files under <code>title:</code> line. 
 		<br>Like <code>permalink: "/blog/post-name/"</code>
 
