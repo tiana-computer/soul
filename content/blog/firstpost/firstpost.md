@@ -125,6 +125,11 @@ Note: Do not edit files in <code>_site</code> folder.
 - Add a [custom domain](https://docs.netlify.com/manage/domains/get-started-with-domains/).
 - Update your site with GitHub Desktop, commit and push your updates as they come.
 	* Always review your updates and check for errors before committing/pushing.
+	* **Number your posts:**
+        + <code>/blog/1_mypost.md</code> or <code>/blog/1_mypost/1_mypost.md</code> (keeps files in order, can be hard to change later)
+        + NOT <code>/blog/mypost.md</code> or <code>/blog/mypost/mypost.md</code>
+        + Add custom permalinks at the top of your /blog/post files under <code>title:</code> line. 
+		<br>Like <code>permalink: "/blog/post-name/"</code>
 
 Read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/) to the web.
 
