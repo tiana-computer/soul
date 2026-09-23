@@ -18,6 +18,7 @@ What's on your blog wish list? Experiment with adding features and content to yo
 Some ideas if you're stuck...
 - [Image hover effects](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
 - [Image gallery](https://www.w3schools.com/css/css_image_gallery.asp)
+- [Custom domain](https://docs.netlify.com/manage/domains/get-started-with-domains/)
 - Animations (with CSS or GIFs)
     * [GifCities](https://gifcities.org/)
     * [Glitter Graphics](https://www.glitter-graphics.com/)
