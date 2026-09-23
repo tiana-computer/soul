@@ -19,6 +19,7 @@ Some ideas if you're stuck...
 - [Image hover effects](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
 - [Image gallery](https://www.w3schools.com/css/css_image_gallery.asp)
 - [Custom domain](https://docs.netlify.com/manage/domains/get-started-with-domains/)
+- [Custom cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor)
 - Animations (with CSS or GIFs)
     * [GifCities](https://gifcities.org/)
     * [Glitter Graphics](https://www.glitter-graphics.com/)
@@ -31,7 +32,6 @@ Some ideas if you're stuck...
 - Add JavaScript, CSS, Fonts, Favicon / Background Images... [See 11ty docs.](https://www.11ty.dev/docs/assets/)
     * You need to tell 11ty to "pass through" global files like these.
     * [Try Are.na](https://www.are.na/search?q=%7B%22term%22:%7B%22facet%22:%22free%20fonts%22%7D%7D) for finding free fonts. I love [Velvetyne Type Foundry](https://velvetyne.fr/).
-- [Custom cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor)
 
 We'll do a show & tell at the end of class. Share your site with your friends. 
 
