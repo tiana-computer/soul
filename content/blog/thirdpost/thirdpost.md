@@ -1,5 +1,5 @@
 ---
-title: Personalize Your Blog
+title: 4 | Personalize Your Blog
 description: Add your own flare.
 date: 2026-09-22
 day: Day 2
