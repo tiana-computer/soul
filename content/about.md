@@ -8,6 +8,6 @@ const eleventyNavigation = {
 
 # About
 
-This website is the guide for [Tiana's](https://tiana.computer) Blogging for the Soul course at New Stadium.
+This website is the guide for [Tiana's](https://tiana.computer) Blogging for the Soul course.
 
 [![Alt Text](/assets/webring-blogging4soul.png)](https://bloggingforthesoul.netlify.app/)
